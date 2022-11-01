@@ -1,0 +1,6 @@
+11.01.2022
+
+This work is about using react-bootstrap for styling
+
+To install react-bootstrap: 'npm install react-bootstrap bootstrap'
+
